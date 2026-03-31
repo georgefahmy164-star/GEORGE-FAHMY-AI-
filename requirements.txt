@@ -1,0 +1,4 @@
+customtkinter
+google-generativeai
+cryptography
+pillow
